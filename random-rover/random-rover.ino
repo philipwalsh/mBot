@@ -30,11 +30,6 @@ MeRGBLed onboardLEDs(PORT, SLOT);
 MeUltrasonicSensor ultraSensor(PORT_4); /* Ultrasonic module can ONLY be connected to port 3, 4, 6, 7, 8 of base shield. */
 
 
-//MeLineFollower lineFinder(PORT_3); /* Line Finder module can only be connected to PORT_3, PORT_4, PORT_5, PORT_6 of base shield. */
-
-
-
-
 /***********************************************************************
  * Method:  updateLED(int led, int red, int green, int blue)
  *
