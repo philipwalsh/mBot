@@ -19,4 +19,12 @@ At time of creating this repo, the current Arduino IDE was at version 1.8.12  I 
 
 Follow all instructions related to installing the IDE and libraries
 
-note - 
+
+note - MakeBlock offers a drag and drop IDE, pictured here
+
+![mBlock IDE](images/readme/mBlock_01.JPG)
+
+I prefer the Arduino IDE
+
+![mBlock IDE](images/readme/Arduino_01.JPG)
+
