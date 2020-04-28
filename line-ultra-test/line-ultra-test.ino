@@ -4,6 +4,8 @@
  * @version V1.0.0
  * @date    2020-04-12
  * @brief   Description: testing the ultrasonic sensor
+ * 
+ * led lightsa green unless something gets up in the grill, then they go red
  *
  * Function List:
  *  double MeUltrasonicSensor::distanceCm(uint16_t MAXcm)

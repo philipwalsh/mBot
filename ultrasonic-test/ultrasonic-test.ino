@@ -4,6 +4,9 @@
  * @version V1.0.0
  * @date    2020-04-12
  * @brief   Description: testing the ultrasonic sensor
+ * 
+ * after uploading, the robot will just sit there and wait for you to put something right up in his grill
+ * when that happens, his LEDs will turn red
  *
  * Function List:
  *  double MeUltrasonicSensor::distanceCm(uint16_t MAXcm)
